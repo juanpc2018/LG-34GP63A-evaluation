@@ -58,7 +58,7 @@ Pros:</br>
 Low power consumption.</br>
 Good image quality,</br>
 Good Blacks.</br>
-Nice to look at low light</br>
+Nice to look at low ambient light</br>
 Decent Speakers with Waves MaxxAudio.</br>
 Nice White & Black contrast.</br>
 lightweight</br>
