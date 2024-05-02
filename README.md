@@ -156,9 +156,10 @@ Next step in monitor is the Samsung G9 49" dual HDMI, or single DP.</br>
 some OS, some Video cards has issues with HDMI at higher resolutions, and high frame rates,</br>
 sollution is using DisplayPort, or to buy a converter DP-to->8K HDMI-out->.</br>
 Monitor comes with DP cable & HDMI cable,</br>
-compared vs. Belkin 4K HDMI Premium cable, No difference at 50fps "intel 4th gen iGPU"</br>
+compared vs. Belkin 4K HDMI Premium cable, No difference WQHD at  50fps</br>
+Recommended to buy a 90° HDMI adapter. </br>
 
-my favorite settings:</br>
+settings:</br>
 
 Gamer1 & Gamer2 allows more manual configuration settings.</br>
 All other presets are very basic/limited.</br>
