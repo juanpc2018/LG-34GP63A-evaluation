@@ -79,11 +79,11 @@ to avoid black plastic feeling.</br>
 Pixel size comparison:</br>
 a 1920x1080-FullHD.jpg = 20" Diagonal monitor.</br>
 
-looks like a 20" monitor "tiny pixels" + side screens.</br>
-17.25" x 9.5" aprox. + 2x 7.5" diagonal</br>
+looks like a 20" monitor + + 2x 7.5" diagonal side screens.</br>
+20" Diagonal = 17.25" x 9.5" aprox. 
 
 my experience:</br>
-40" Flat NoGo</br>
+40" UHD Flat NoGo</br>
 32" FullHD NoGo "too pixelated"</br>
 27" FullHD is the maximum size flat.</br>
 55" Flat at 3 meters, NoGo </br>
