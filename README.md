@@ -140,7 +140,7 @@ OS Scale-Up 125%</br>
 is best setting.</br>
 
 At 2560x1080 (21:9) </br>
-100% Scaling, looks similar, but pixelated, but less pixelated vs. a 32" FullHD monitor.</br>
+100% Scaling, looks similar but pixelated, less pixelated vs. 32" FullHD monitor,</br>
 at 125% scaling Looks BIG.</br>
 32" FHD is NoGo, maximum recomended size 27" FHD.</br>
 
@@ -151,7 +151,7 @@ dont like Scaling-Up, requires 100% scale.</br>
 
 Using HDMI 4th gen intel iGPU only allows 50fps at 3440x1440</br>
 
-Next step in monitoris the Samsung G9 49" dual HDMI, or single DP.</br>
+Next step in monitor is the Samsung G9 49" dual HDMI, or single DP.</br>
 
 some OS, some Video cards has issues with HDMI at higher resolutions, and high frame rates,</br>
 sollution is using DisplayPort, or to buy a converter DP-to->8K HDMI-out->.</br>
