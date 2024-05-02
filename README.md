@@ -178,14 +178,14 @@ Picture Adjust:</br>
 +Sharpness 60-70 at 3440x1440</br>
 +Sharpness 70 at 2560x1080 "If had 65"</br>
 
-+Gamma Mode 1 for more Vivid, Neutral White.</br>
-+Gamma Mode 2 for more gray, a bit less Vivid., more Red white.</br>
-+Gamma Mode 3 for deeper Blacks, works better with more Black Sabilizer than other Gamma settings.</br>
-+Gamma Mode 4 a bit less than Mode 2, and more Vivid than mode 3, and more Yellow white.</br>
++Gamma Mode 1 for more Vivid, Neutral/Pure White.</br>
++Gamma Mode 2 for more Warm White.</br>
++Gamma Mode 3 for deeper Blacks, works better with more Black Sabilizer vs. other Gamma settings.</br>
++Gamma Mode 4 a bit less than Mode 2, and more Vivid than mode 3, more Yellow white.</br>
 
 Gamma 3 is too dark for this settings.</br>
 Gamma 1 looks a bit too bright for this settings, Ok at daylight, </br>
-at night Gamma 2 or 4 would be easy on the eyes with this settings</br>
+at Night Gamma 2 or 4 would be easy on the eyes with this settings</br>
 or Gamma1 with lower Brightness Quick Menu Up & Down.</br>
 
 +Color Temp (*)Medium</br>
@@ -218,7 +218,7 @@ when monitor is close the the eyes, is a nice feature.</br>
 when is a larger monitor far away, Not much difference.</br>
 +Waves MaxxAudio(TM) (*) On</br>
 +Power LED (*) OFF</br>
-+Automatic Standby (*) 4 Hours.</br>
++Automatic Standby (*) 4 Hours or OFF.</br>
 Not smart, 4 hours since turn on,</br>
 does Not detect pixel movement.</br>
 Do you want to turn off? goes to the OSD Menu.</br>
@@ -235,7 +235,7 @@ Volume 33</br>
 moving up & down with mouse wheel</br>
 on this video, </br>
 https://www.youtube.com/watch?v=-Bp640WIoNc</br>
-is the most extreme case Bright/white objects with bright/white background.</br>
+is the most extreme case of Ghosting Bright/white objects with bright/white background.</br>
 BUT... only happens with some Gamma settings, Not all.</br>
 
 The oposite, White Objects with total Dark/Black background has 0% GHosting, same setting</br>
