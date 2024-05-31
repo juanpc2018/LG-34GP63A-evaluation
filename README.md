@@ -1,6 +1,9 @@
 # LG-34GP63A-evaluation
 
-LG 34GP63A </br>
+LG 34GP63A "34GP63A-B.AUS" </br>
+https://www.lg.com/us/support/software-firmware-drivers </br>
+https://www.lg.com/us/support/manuals-documents </br>
+
 VA</br>
 WQHD=3440x1440</br>
 Display size: 31" x 13.1" aprox.</br>
@@ -19,33 +22,33 @@ Original AC adapter has a 0.65 PFC</br>
 Recomended Settings:</br>
 Gamer 1 | 2</br>
 
-Black Stabilizer 35 | 60</br>
-Brightness 30 | 45</br>
+Black Stabilizer 35 | 55</br>
+Brightness 45 | 45</br>
 Contrast 70 | 70</br>
 Sharp 60 | 60 </br>
 Gamma 1 | 2</br>
 Color Temp Medium | Medium</br>
 SixColor </br>
-45 | 40</br>
-60 | 50</br>
+45 | 45</br>
+60 | 60</br>
 
-50 | 45</br>
-65 | 55</br>
+50 | 50</br>
+65 | 65</br>
 
-50 | 55</br>
-57 | 60</br>
+55 | 55</br>
+60 | 60</br>
 --</br>
 55 | 55</br>
-70 | 80</br>
+80 | 80</br>
 
 50 | 50 </br>
-55 | 70</br>
+70 | 70</br>
 
-55 | 50</br>
+55 | 55</br>
 55 | 55</br>
 
 Black Level Low </br>
-DFC Off</br>
+DFC On</br>
 Aspect Ratio Original</br>
 
 Smart Energy OFF</br>
