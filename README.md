@@ -9,11 +9,12 @@ WQHD=3440x1440</br>
 Display size: 31" x 13.1" aprox.</br>
 Diagonal 34"</br>
 Borders: 31.75" x 13.5"</br>
+Pixel Size: 0.229mm x 0.231mm aprox,
 Gives a True Wide Screen Cinema experience, Super 35 in a small box...</br>
 2.4:1 also known as:</br>
 12:5</br>
 21.6:9</br>
-https://en.wikipedia.org/wiki/Super_35</br>
+[Super35](https://en.wikipedia.org/wiki/Super_35)</br>
 
 consumes 23 watts from AC wall.</br>
 Original AC adapter has a 0.65 PFC</br>
