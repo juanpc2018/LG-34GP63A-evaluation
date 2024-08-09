@@ -9,7 +9,7 @@ WQHD=3440x1440</br>
 Display size: 31" x 13.1" aprox.</br>
 Diagonal 34"</br>
 Borders: 31.75" x 13.5"</br>
-Pixel Size: 0.229mm x 0.231mm aprox,
+Pixel Size: 0.229mm x 0.231mm aprox,</br>
 Gives a True Wide Screen Cinema experience, Super 35 in a small box...</br>
 2.4:1 also known as:</br>
 12:5</br>
