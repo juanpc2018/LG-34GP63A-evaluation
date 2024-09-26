@@ -23,15 +23,15 @@ Original AC adapter has a 0.65 PFC</br>
 Recomended Settings:</br>
 Gamer 1 | 2</br>
 
-Black Stabilizer 35 | 55</br>
-Brightness 45 | 45</br>
+Black Stabilizer 50 | 55</br>
+Brightness 33 | 45</br>
 Contrast 70 | 70</br>
 Sharp 60 | 60 </br>
 Gamma 1 | 2</br>
 Color Temp Medium | Medium</br>
 SixColor </br>
 45 | 45</br>
-60 | 60</br>
+61 | 60</br>
 
 50 | 50</br>
 65 | 65</br>
@@ -45,17 +45,18 @@ SixColor </br>
 50 | 50 </br>
 70 | 70</br>
 
-55 | 55</br>
+50 | 55</br>
 55 | 55</br>
 
 Black Level Low </br>
 DFC On</br>
 Aspect Ratio Original</br>
 
-Smart Energy OFF</br>
+Smart Energy: OFF</br>
 Waves ON</br>
 PowerLED OFF</br>
 HDMI Compat ON</br>
+DisplayPort Version: 1.4 </br>
 
 -------------------</br>
 Pros:</br>
