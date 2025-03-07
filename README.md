@@ -47,8 +47,8 @@ Cyan: </br>
 85 | 80</br>
 
 Magenta:</br>
-55| 55 </br>
-70 | 70</br>
+50 | 50 </br>
+56 | 56 </br>
 
 Yellow:</br>
 50 | 55</br>
