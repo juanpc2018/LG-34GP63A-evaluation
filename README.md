@@ -30,21 +30,27 @@ Sharp 60 | 60 </br>
 Gamma 1 | 2</br>
 Color Temp Medium | Medium</br>
 SixColor </br>
+Red:</br>
 45 | 45</br>
 61 | 60</br>
 
+Green:</br>
 50 | 50</br>
-65 | 65</br>
+55 | 55</br>
 
+Blue:</br>
 55 | 55</br>
 60 | 60</br>
 --</br>
+Cyan: </br>
 65 | 55</br>
 85 | 80</br>
 
+Magenta:</br>
 50 | 50 </br>
 70 | 70</br>
 
+Yellow:</br>
 50 | 55</br>
 55 | 55</br>
 
