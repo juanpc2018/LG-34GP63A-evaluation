@@ -252,3 +252,30 @@ BUT... only happens with some Gamma settings, Not all.</br>
 The oposite, White Objects with total Dark/Black background has 0% GHosting, same setting</br>
 https://www.youtube.com/watch?v=k0WfQNR14l4</br>
 
+-----------------
+
+On Linux, OSX and Windows, driver looks a bit different... </br>
+default settings have different gamma setings, </br>
+
+Linux Nouveau driver NV137 has a Darker Gamma setting 1.0 vs. </br>
+Nvidia propietary driver 470-535 Gamma setting 1.20 </br>
+
+Nouveau Linux 20.04.4 System Settings | Display & Monitor | Gamma:  </br>
+Gamma x.xx moves all RGB sliders at same time, with same value. </br>
+recommended settings: </br>
+Red: 0.90 </br>
+Green: 0.85 </br>
+Blue: 1.20 </br>
+
+IF want a Brighter Gamma: </br>
+same ratio, but higher value, </br>
+example: </br>
+Red: 0.95 </br>
+Green: 0.90 </br>
+Blue: 1.25 </br>
+
+IF want more "Cool White >6500°K" </br>
+increase </br>
+Blue: +0.05 </br>
+"Warmer White < 5500°K" </br>
+decrease Blue: -0.05 </br>
