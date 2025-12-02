@@ -98,12 +98,12 @@ does Not have hydrophobic coating like phones,</br>
 Daylight reflections makes screen look plastic.</br>
 looking a glass feels natural,</br>
 but looking at a dark plastic feels strange,.</br>
-Not as good headphone output as MacMini 2014 for example.</br>
-----------------</br>
+
 Daylight / Bulb Reflections must be avoided...</br>
 placing a Black curtain or black carpet / black fabric behind you.</br>
 and posibly on the sides, like Barn doors.</br>
 to avoid black plastic feeling.</br>
+
 ----------------</br>
 Pixel size comparison:</br>
 a 1920x1080-FullHD.jpg = 20" Diagonal monitor.</br>
