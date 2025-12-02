@@ -102,7 +102,7 @@ but looking at a dark plastic feels strange,.</br>
 Daylight / Bulb Reflections must be avoided...</br>
 placing a Black curtain or black carpet / black fabric behind you.</br>
 and posibly on the sides, like Barn doors.</br>
-to avoid black plastic feeling.</br>
+to avoid black plastic reflections. </br>
 
 ----------------</br>
 Pixel size comparison:</br>
