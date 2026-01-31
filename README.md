@@ -43,7 +43,7 @@ VLC player allows to change Crop & Aspect Ratio. </br>
 Depends to what is connected, Windows, Linux, Mac, iOS </br>
 
 ### iOS + [Lightning Digital AV adapter](https://www.apple.com/shop/product/mw2p3am/a/lightning-digital-av-adapter) to HDMI A1438 MD826AM/A </br>
-from iPhone 5 -to-> 14 Pro Max </br>
+iPhone 5 -to-> 14 Pro Max </br>
 iPhone SE 3 </br>
 iPad 4 -> 9, upto iPad Air 3, iPad mini 5, iPad Pro2 </br>
 
