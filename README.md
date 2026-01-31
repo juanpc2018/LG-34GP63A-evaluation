@@ -38,7 +38,62 @@ To play Blu-Ray Movies, a PC BD-Drive would be better vs. stand alone FullHD Blu
 VLC player allows to change Crop & Aspect Ratio. </br>
 
 -----------</br>
-Recomended Settings:</br>
+## Recomended Settings:</br>
+
+Depends to what is connected, Windows, Linux, Mac, iOS </br>
+
+### iOS + [Lightning Digital AV adapter](https://www.apple.com/shop/product/mw2p3am/a/lightning-digital-av-adapter) to HDMI A1438 MD826AM/A </br>
+from iPhone 5 -to-> 14 Pro Max </br>
+iPhone SE 3 </br>
+iPad 4 -> 9, upto iPad Air 3, iPad mini 5, iPad Pro2 </br>
+
+Gamer 1 or 2 </br>
+
+Black Stabilizer: 0 </br>
+Brightness: 15 </br>
+Contrast: 80 </br>
+Sharpness: 100 </br>
+Gamma: Mode 1 </br>
+Color Temp: Cool </br>
+
+SixColor: </br>
+--</br>
+Red: </br>
+50 </br>
+55 </br>
+
+Green: </br>
+45 </br>
+50 </br>
+
+Blue: </br>
+65 </br>
+70 </br>
+--</br>
+Cyan: </br>
+65 </br>
+65 </br>
+
+Magenta:</br>
+50 </br>
+60 </br>
+
+Yellow:</br>
+65 </br>
+55 </br>
+
+Black Level: Low </br>
+DFC: Off </br>
+Aspect Ratio Original</br>
+
+Smart Energy: OFF</br>
+Waves: ON </br>
+PowerLED: OFF</br>
+HDMI Compat: ON</br>
+DisplayPort Version: 1.4 </br>
+
+### Linux: 
+
 Gamer 1 | 2</br>
 
 Black Stabilizer 50 | 55</br>
@@ -83,40 +138,40 @@ HDMI Compat ON</br>
 DisplayPort Version: 1.4 </br>
 
 -------------------</br>
+
 Pros:</br>
 Low power consumption.</br>
-Good image quality,</br>
-Good Blacks.</br>
-Nice to look at low ambient light</br>
-Decent Speakers with Waves MaxxAudio.</br>
+Good image quality </br>
+Good Blacks *but.. requires No reflections / black fabric backgroud behind head. </br>
+Nice to look at low ambient light </br>
+Decent Speakers with Waves MaxxAudio. </br>
 Nice White & Black contrast.</br>
 lightweight</br>
 
 Cons:</br>
 a bit small,</br>
 does Not have hydrophobic coating like phones,</br>
-Daylight reflections makes screen look plastic.</br>
-looking a glass feels natural,</br>
-but looking at a dark plastic feels strange,.</br>
+Light reflections makes screen look plastic. </br>
+looking a glass feels natural but looking at a plastic feels strange. </br>
 
-Daylight / Bulb Reflections must be avoided...</br>
-placing a Black curtain or black carpet / black fabric behind you.</br>
-and posibly on the sides, like Barn doors.</br>
-to avoid black plastic reflections. </br>
+Daylight / Bulb Reflections must be avoided at all cost...</br>
+placing a Black curtain, fabric or carpet behind you.</br>
+posibly on the sides, like Barn doors.</br>
+to avoid screen reflections. </br>
 
 ----------------</br>
 Pixel size comparison:</br>
 a 1920x1080-FullHD.jpg = 20" Diagonal monitor.</br>
 
-looks like a 20" monitor + 2x 7.5" diagonal side screens.</br>
+looks like a 20" monitor + 2x 7.5" side screens.</br>
 20" Diagonal = 17.25" x 9.5" aprox. 
 
-my experience:</br>
-40" UHD Flat NoGo,</br>
-32" FullHD NoGo "too pixelated"</br>
-27" FullHD is the maximum size flat.</br>
-55" Flat at 3 meters, NoGo </br>
-55" Curved TV at 2 meters, too much power consumption. </br>
+### my experience:</br>
+40" UHD Flat: NoGo "large screen requires curved" </br>
+32" FullHD: NoGo "too pixelated"</br>
+26"-27" FullHD is the maximum size flat.</br>
+55" Flat at 3 meters: NoGo </br>
+55" Curved TV at 2 meters: too much power consumption. </br>
 
 34" WQHD looks portable,</br>
 but a bit bigger would be better.</br>
@@ -124,21 +179,22 @@ but a bit bigger would be better.</br>
 some movies are designed for 21:9, </br>
 Those movies Fit like a Glove.</br>
 most internet feels square after experiencing a 21:9 Wide Screen.</br>
+watching 3 vertical cellphone videos side-by-side simultaneusly looks very nice </br>
 
-This type of monitor WQHD "21:9" is nice for DAWs, Mixer, Track view.</br>
+This type of monitor WQHD "21:9" is nice for DAWs, Mixer, Track view, video editing time line.</br>
 
-LG stand does Not rotate 90°</br>
-only goes up & down a few inches.</br>
+LG stand does Not rotate 90° Portait mode only Landscape. </br>
+Goes up & down a few inches.</br>
 requires optional Vesa 100x100 mount for more advanced set-ups.</br>
 
 WavesMAXX Audio Enhancement is dissabled when using Headphone output.</br>
-Headphone out has weak volume,</br>
+Headphone out has weak volume:</br>
 speakers at 30 = headphone at 60.</br>
-Unplugg headphones while making sound will be very loud.</br>
+Unplugg headphones while play sound will be Very Loud.</br>
 
-Mouse speed in OS needs to be increased when upgrading FullHD 1920x1080 to 3440x1440.</br>
+Mouse speed in any OS needs to be increased when upgrading FullHD 1920x1080 to 3440x1440.</br>
 
-LG 34" is similar to ASRock 34" WQHD</br>
+LG 34" is similar to ASRock 34" WQHD and some Asus </br>
 Asrock has 2 models: </br>
 OLED and standard VA.</br>
 this LG is VA.</br>
@@ -154,10 +210,10 @@ Push-Up + Push-Up = Exit Octagonal OSD Menu.</br>
 Left + Left = Exit Square OSC Menu, but... </br>
 if standing on a setting, Left does Not work, needs Push-Up to Exit setting.</br>
 
-Black Sabilizer & Black Level (*)Low/High</br>
+Black Sabilizer & Black Level * Low/High </br>
 are similar, Low/High are Coarse Big Jump.</br>
 Brightness is also a complementary setting, should be adjusted at same time to Stabilizer.</br>
-But Black level is opposite, if (*)High, Brigtness & Black Stabilizer must go down, to have a lower BackLight bleeding.</br>
+But Black level is opposite, if * High, Brigtness & Black Stabilizer must go down, to have a lower BackLight bleeding.</br>
 
 Black Level (*)Low/High</br>
 seems to be a Global setting, </br>
