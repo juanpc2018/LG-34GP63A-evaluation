@@ -14,7 +14,7 @@ Gives a True Wide Screen Cinema experience, Super 35 in a small box...</br>
 2.4:1 also known as:</br>
 12:5</br>
 21.6:9</br>
-[Super35](https://en.wikipedia.org/wiki/Super_35)</br>
+[Super35](https://en.wikipedia.org/wiki/Super_35) - [CinemaScope](https://en.wikipedia.org/wiki/CinemaScope) </br>
 
 consumes 23 watts from AC wall.</br>
 Original AC adapter has a 0.65 PFC</br>
