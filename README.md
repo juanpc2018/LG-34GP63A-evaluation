@@ -167,10 +167,10 @@ looks like a 20" monitor + 2x 7.5" side screens.</br>
 20" Diagonal = 17.25" x 9.5" aprox. 
 
 ### my experience:</br>
-40" UHD Flat: NoGo "large screen requires curved" </br>
+40" UHD Flat: NoGo "large screen requires curved" when less than 1 arm distance, Away requires 200% Scaling, Native resolution is too small. </br>
 32" FullHD: NoGo "too pixelated"</br>
 26"-27" FullHD is the maximum size flat.</br>
-55" Flat at 3 meters: NoGo </br>
+55" Flat at 3 meters: NoGo Native Resolution, Requires Scaling 150%-200% </br>
 55" Curved TV at 2 meters: too much power consumption. </br>
 
 34" WQHD looks portable,</br>
