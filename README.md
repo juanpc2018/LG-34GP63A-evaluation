@@ -1,4 +1,4 @@
-# LG-34GP63A-evaluation
+# LG 34GP63A evaluation
 
 LG 34GP63A "34GP63A-B.AUS" </br>
 https://www.lg.com/us/support/software-firmware-drivers </br>
