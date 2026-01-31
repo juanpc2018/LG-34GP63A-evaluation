@@ -157,7 +157,7 @@ looking a glass feels natural but looking at a plastic feels strange. </br>
 Daylight / Bulb Reflections must be avoided at all cost...</br>
 placing a Black curtain, fabric or carpet behind you.</br>
 posibly on the sides, like Barn doors.</br>
-to avoid screen reflections. </br>
+Avoid Screen Reflections. </br>
 
 ----------------</br>
 Pixel size comparison:</br>
@@ -167,11 +167,12 @@ looks like a 20" monitor + 2x 7.5" side screens.</br>
 20" Diagonal = 17.25" x 9.5" aprox. 
 
 ### my experience:</br>
-40" UHD Flat: NoGo "large screen requires curved" when less than 1 arm distance, Away requires 200% Scaling, Native resolution is too small. </br>
-32" FullHD: NoGo "too pixelated"</br>
-26"-27" FullHD is the maximum size flat.</br>
-55" Flat at 3 meters: NoGo Native Resolution, Requires Scaling 150%-200% </br>
-55" Curved TV at 2 meters: too much power consumption. </br>
+40" UHD Flat: NoGo </br>
+"large screen requires curved when 1 arm distance", more > requires 200% Scaling, Native resolution is too small. </br>
+32" FullHD: NoGo "too pixelated" </br>
+26"-27" FullHD is the maximum size, pixel & flat.</br>
+55" Flat at 3 meters: NoGo: Native Resolution, Requires Scaling: 150%-200% </br>
+55" Curved TV 2 meters: too much power consumption. </br>
 
 34" WQHD looks portable,</br>
 but a bit bigger would be better.</br>
@@ -179,7 +180,7 @@ but a bit bigger would be better.</br>
 some movies are designed for 21:9, </br>
 Those movies Fit like a Glove.</br>
 most internet feels square after experiencing a 21:9 Wide Screen.</br>
-watching 3 vertical cellphone videos side-by-side simultaneusly looks very nice </br>
+watching 3 vertical cellphone videos side-by-side simultaneusly looks nice. </br>
 
 This type of monitor WQHD "21:9" is nice for DAWs, Mixer, Track view, video editing time line.</br>
 
