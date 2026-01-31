@@ -27,18 +27,18 @@ without 4K Scaler: Blu-Ray FullHD movies look small / there is a large black unu
 monitor only has 2 options: </br>
 Wide "fit horizontal, Not vertical" = useless setting, & Original 1:1 pixel. </br>
 most movies are 2.40:1 Aspect Ratio "CinemaScope" perfect for the monitor 2.39:1 ratio, </br>
-but monitor firmware does Not allow to Scale-Up Wide & Vertical at fixed ratio. </br>
+but monitor firmware does Not allow to Scale-Up Wide & Vertical. </br>
 
 Unknown if 4K UHD Blu-ray players have a smart Scaler. </br>
 Micomsoft XPC-4, Kramer VP-728 are FullHD Scalers, does Not work for this. </br>
 
-Another problem is that some movies like Batman The Dark Night, has some scenes recorded with IMAX 1.77:1 Ratio, </br>
-Requires a 4K Scaler smart enough to switch Ratios in Real time with look-ahead, </br>
+Another problem is some movies like: Batman The Dark Night, has some scenes recorded with IMAX 1.77:1 Ratio, </br>
+Requires a Smart 4K Scaler to switch Ratios in Real time with look-ahead, </br>
 having a Fixed Scale-Up Ratio will crop a large area of the IMAX 1.77:1 scenes. </br>
 
 To play Blu-Ray Movies: </br>
-a PC BD-Drive would be better vs. stand alone FullHD Blu-Ray players </br>
-but 4K BluRay requires Firmware modification, BD Units only play FullHD from factory. </br>
+a PC BD-Drive would be better option vs. stand alone FullHD Blu-Ray players </br>
+but 4K BluRay movies requires BD-drive Firmware modification, BD Units only play FullHD from factory. </br>
 VLC player allows to change Crop & Aspect Ratio. </br>
 
 -----------</br>
