@@ -20,27 +20,32 @@ consumes 23 watts from AC wall.</br>
 Original AC adapter has a 0.65 PFC</br>
 
 
-problem #1. with FullHD Blu-Ray movies, using external FullHD BD player is that are displayed at Original input Aspect Ratio </br>
-without 4K Scaler, Blu-Ray FullHD movies look small / there is a large black unused area around the image. </br>
+### problem #1. 
+with FullHD Blu-Ray movies, using external FullHD BD player displayed at Original input Aspect Ratio </br>
+without 4K Scaler: Blu-Ray FullHD movies look small / there is a large black unused area around the image. </br>
 
-monitor only has 2 options: Wide "fit horizontal, Not vertical" = useless setting, & Original 1:1 pixel. </br>
+monitor only has 2 options: </br>
+Wide "fit horizontal, Not vertical" = useless setting, & Original 1:1 pixel. </br>
 most movies are 2.40:1 Aspect Ratio "CinemaScope" perfect for the monitor 2.39:1 ratio, </br>
-but monitor does Not allow to Scale-Up Wide & Vertical at fixed ratio. </br>
+but monitor firmware does Not allow to Scale-Up Wide & Vertical at fixed ratio. </br>
 
-Unknown if 4K UHD blu-ray players have a smart Scaler, </br>
+Unknown if 4K UHD Blu-ray players have a smart Scaler. </br>
 Micomsoft XPC-4, Kramer VP-728 are FullHD Scalers, does Not work for this. </br>
 
 Another problem is that some movies like Batman The Dark Night, has some scenes recorded with IMAX 1.77:1 Ratio, </br>
 Requires a 4K Scaler smart enough to switch Ratios in Real time with look-ahead, </br>
 having a Fixed Scale-Up Ratio will crop a large area of the IMAX 1.77:1 scenes. </br>
 
-To play Blu-Ray Movies, a PC BD-Drive would be better vs. stand alone FullHD Blu-Ray players </br>
+To play Blu-Ray Movies: </br>
+a PC BD-Drive would be better vs. stand alone FullHD Blu-Ray players </br>
+but 4K BluRay requires Firmware modification, BD Units only play FullHD from factory. </br>
 VLC player allows to change Crop & Aspect Ratio. </br>
 
 -----------</br>
+
 ## Recomended Settings:</br>
 
-Depends to what is connected, Windows, Linux, Mac, iOS </br>
+Depends to what is connected: Windows, Linux, Mac, iOS </br>
 
 ### iOS + [Lightning Digital AV adapter](https://www.apple.com/shop/product/mw2p3am/a/lightning-digital-av-adapter) to HDMI A1438 MD826AM/A </br>
 iPhone 5 -to-> 14 Pro Max </br>
