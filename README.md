@@ -147,7 +147,7 @@ DisplayPort Version: 1.4 </br>
 Pros:</br>
 Low power consumption.</br>
 Good image quality </br>
-Good Blacks *but.. requires No reflections / black fabric backgroud behind head. </br>
+Good Blacks *but.. requires No reflections / black fabric [flock](https://the-black-market.com/products/vl-flock-sheet) backgroud [behind head](https://www.youtube.com/watch?v=lrqpX7FXflA&t=513s) </br>
 Nice to look at low ambient light </br>
 Decent Speakers with Waves MaxxAudio. </br>
 Nice White & Black contrast.</br>
